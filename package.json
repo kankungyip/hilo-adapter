@@ -1,0 +1,13 @@
+{
+  "name": "hilo-adapter",
+  "version": "0.1.0",
+  "description": "Hilo for minigame",
+  "main": "index.js",
+  "dependencies": {
+    "hilojs": "^1.1.9",
+    "lodash-decorators": "^5.0.0"
+  },
+  "repository": "https://github.com/kankungyip/hilo-adapter.git",
+  "author": "Yeqin Gong",
+  "license": "MIT"
+}

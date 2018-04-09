@@ -1,3 +1,3 @@
-Hilo for minigame
+Hilojs for minigame
 ===
 
